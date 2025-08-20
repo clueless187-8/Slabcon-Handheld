@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # ===== CONFIG =====
-USER="YOUR_GITHUB_USERNAME"
+USER="clueless1871-8"
 REPO="slabcon"
 YEAR="$(date +%Y)"
 
