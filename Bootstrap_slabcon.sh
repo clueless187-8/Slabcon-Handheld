@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # ===== CONFIG =====
-USER="clueless1871-8"
+USER="clueless187-8"
 REPO="slabcon"
 YEAR="$(date +%Y)"
 
